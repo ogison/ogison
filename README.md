@@ -1,14 +1,14 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=ogison" />
 </div>
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a frontend and backend engineer.
-- 🌱 I’m currently learning typescript!
+- 🧑‍💻 I'm a Product Developer.
+- 🌱 I'm working on AI product development and personal projects.
 - 📫 How to reach me: [Twitter - @ogison999](https://twitter.com/ogison999)
 <br>
 
@@ -17,7 +17,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,java,kotlin,spring,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,java,kotlin,spring,docker,aws,flask,graphql,apollo,openai" />
 <br>
 
 
@@ -25,8 +25,16 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ogison&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogison&theme=vue-dark&layout=compact" />
+  <img
+    alt="GitHub stats"
+    height="170px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ogison&theme=vue"
+  />
+  <img
+    alt="Top Langs"
+    height="170px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ogison&theme=vue"
+  />
 </div>
 
 
