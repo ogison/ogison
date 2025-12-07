@@ -28,15 +28,14 @@
   <img
     alt="GitHub stats"
     height="170px"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ogison&theme=vue"
+    src="https://github-readme-stats-dun-six-66.vercel.app/api?username=ogison&theme=vue-dark&show_icons=true&cache_seconds=86400&v=1"
   />
   <img
     alt="Top Langs"
     height="170px"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ogison&theme=vue"
+    src="https://github-readme-stats-dun-six-66.vercel.app/api/top-langs/?username=ogison&theme=vue-dark&layout=compact&cache_seconds=86400&v=1"
   />
 </div>
-
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
