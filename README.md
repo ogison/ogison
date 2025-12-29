@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm ogison!
+
+
+## 💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-two-rust-84.vercel.app/api?username=ogison&show_icons=true&theme=radical)
+
+## 📊 Languages
+
+![Top Languages](https://github-readme-stats-two-rust-84.vercel.app/api/top-langs/?username=ogison&layout=compact)
+
 
 <!--
 **ogison/ogison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
