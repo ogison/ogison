@@ -19,6 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,flask,docker,aws,gcp,java,spring" />
 <br>
 
+![Famicom Profile](https://famicom-profile-readmes.vercel.app/api/mario?skills=React%2CNextJS%2CHTML%2CCSS%2CJavaScript%2CTypeScript%2CPython%2CJava%2CKotlin%2CNode%2CPostgreSQL%2CDocker%2CAWS%2CGCP%2CGit%2CVercel%2CTailwind%2CBootstrap%2CSass%2CVSCode%2CLinux%2CSupabase%2CGraphQL%2CPrisma&useSkillIcons=true&skillIconsTheme=dark)
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
